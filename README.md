@@ -15,7 +15,7 @@
 
 - **Tech Experts:** Include technical depth, advanced terminology, and complex examples.
 - **Regular Folks:** Use plain language, break down complex concepts, and use analogies.
-- **Mixed Audience:** Balance both approaches with tiered explanations—start simple and progressively add complexity.
+- **Mixed Audience:** Balance both approaches with tiered explanations, just start simple and progressively add complexity.
 
 ---
 
