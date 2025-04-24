@@ -75,7 +75,7 @@
 
 ## 10. What are some best practices for creating effective headings and subheadings?
 
-- Be **clear and descriptive**—avoid vague terms.
+- Be **clear and descriptive** and avoid vague terms.
 - Use **consistent formatting** for hierarchy (e.g., H1 for main titles, H2 for subsections).
 - Keep them **short and to the point**, summarizing the section’s content.
 
@@ -93,7 +93,7 @@
 
 - Start with a **short, clear statement** of what the product does.
 - Follow with **bullet points** for the main features.
-- Avoid technical jargon—focus on the **user benefits**.
+- Avoid technical jargon and focus on the **user benefits**.
 
 ---
 
